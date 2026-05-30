@@ -12,3 +12,6 @@
 * we've set the $LFS variable for better access to our mount point
 * the sources folder was created and populated using wget
 
+### Note: 
+
+* we did some parts multiple time due to bad virtual machine configuration, so we could not get to the first hour of the video
